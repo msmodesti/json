@@ -1,0 +1,168 @@
+{
+   "status": {
+      "nivel": 0,
+      "questao": 0
+   },
+  "questoes":[
+  {
+    "id": "01",
+    "animal": "Cachorro",
+    "som": "cachorro_som.mp3",
+    "texto": "Animal mamífero de quatro patas, focinho muito aguçado, dentes muito pontudos. Ele late e está presente em grande parte das casas como animal de estimação. É conhecido como o melhor amigo do homem.",
+    "imagem": "cachorro_img.jpg",
+    "narracao": "cachorro_nar.mp3"
+},
+{
+    "id": "02",
+    "animal": "Cavalo",
+    "som": "cavalo_som.mp3",
+    "texto": "Animal mamífero de quatro patas, seus pés tem cascos, possui uma crina. Ele relincha e é usado como meio de locomoção algumas pessoas no campo. É o animal utilizado no esporte de hipismo.",
+    "imagem": "cavalo_img.jpg",
+    "narracao": "cavalo_nar.mp3"
+  }, 
+    {
+    "id": "03",
+    "animal": "Porco",
+    "som": "porco_som.mp3",
+    "texto": "Animal mamífero gordo, geralmente rosa, de quatro patas. Possui o rabo encaracolado. Animal que gosta de rolar na lama e geralmente é criado para alimentação humana. Mascote do time de futebol do Palmeiras.",
+    "imagem": "porco_img.jpg",
+    "narracao": "porco_nar.mp3"
+  }, 
+   {
+    "id": "04",
+    "animal": "Gato",
+    "som": "gato_som.mp3",
+    "texto": "Felino mamífero de quatro patas, geralmente com muitos pelos, garras afiadas, também adotado como animal doméstico em várias residências. Ele é conhecido por miar. ",
+    "imagem": "gato_img.jpg",
+    "narracao": "gato_nar.mp3"
+  }, 
+    {
+    "id": "05",
+    "animal": "Leão",
+    "som": "leao_som.mp3",
+    "texto": "Este é o maior felino existente no planeta, os machos possuem uma grande juba, dentes afiados e são muito ferozes. Nativo da savana africana, também é conhecido como Rei da Selva. Este animal é o personagem principal de filmes como Madagascar. ",
+    "imagem": "leao_img.jpg",
+    "narracao": "leao_nar.mp3"
+  }, 
+    {
+    "id": "06",
+    "animal": "Galinha",
+    "som": "galinha_som.mp3",
+    "texto": "Estas aves possuem bico pequeno, crista carnuda, pernas escamosas e asas curtas e largas. É criado em cativeiro para consumo de sua carne e seus ovos. Ela cacareja.",
+    "imagem": "galinha_img.jpg",
+    "narracao": "galinha_nar.mp3"
+  }, 
+    {
+    "id": "07",
+    "animal": "Macaco",
+    "som": "macaco_som.mp3",
+    "texto": "Este animal tem cauda longa e habita nos galhos das árvores, possuindo pés e mãos bem desenvolvidos. É considerado por muitos um ancestral dos humanos. Gosta de comer banana.",
+    "imagem": "macaco_img.jpg",
+    "narracao": "macaco_nar.mp3"
+  }, 
+    {
+    "id": "08",
+    "animal": "Sapo",
+    "som": "sapo_som.mp3",
+    "texto": "Esse animal é um anfíbio, em geral verde, e possui uma língua longa para comer insetos. Habita os rios, riachos e lagoas. Pula alto e tem aspecto gosmento.",
+    "imagem": "sapo_img.jpg",
+    "narracao": "sapo_nar.mp3"
+  }, 
+    {
+    "id": "09",
+    "animal": "Vaca",
+    "som": "vaca_som.mp3",
+    "texto": "Este animal é um mamífero de quatro patas, conhecido por ser grande e gordo, possuindo chifres. Ele é criado para o consumo de sua carne e seu leite. Seu som é conhecido como mugir.",
+    "imagem": "vaca_img.jpg",
+    "narracao": "vaca_nar.mp3"
+  }, 
+    {
+    "id": "10",
+    "animal": "Elefante",
+    "som": "elefante_som.mp3",
+    "texto": "Esse animal é mamífero terreste mais pesado do mundo. Tem orelhas grandes e seu nariz é uma tromba. Alguns possuem presas de marfim. Eles são conhecidos por serem inteligentes e possuirem grande memória. Vivem nas savanas da África.",
+    "imagem": "elefante_img.jpg",
+    "narracao": "elefante_nar.mp3"
+  }, 
+    {
+    "id": "11",
+    "animal": "Ovelha",
+    "som": "ovelha_som.mp3",
+    "texto": "Animal mamífero que possui grande camada de lã em seu corpo. Além de ser criado para extração da lã, sua carne e leite também é consumida pelo homem.",
+    "imagem": "ovelha_img.jpg",
+    "narracao": "ovelha_nar.mp3"
+  }, 
+    {
+    "id": "12",
+    "animal": "Morcego",
+    "som": "morcego_som.mp3",
+    "texto": "Animal com hábitos norturnos que habita nas cavernas. Único mamífero voador do planeta. São de cor preta, possuindo asas e presas. Sua visão é muito ruim e dormem de cabeça para baixo. Deu origem ao super herói Batman, que tem como símbolo sua imagem.",
+    "imagem": "morcego_img.jpg",
+    "narracao": "morgeco_nar.mp3"
+  }, 
+    {
+    "id": "13",
+    "animal": "Águia",
+    "som": "aguia_som.mp3",
+    "texto": "Pássaro de grande porte, conhecida como ave de rapina, voa em velocidades muito altas e tem penas brancas e pretas, com bico laranja. Possui garras afiadíssimas, utilizadas para agarrar suas presas. É nativa dos Estados Unidos, país que é símbolo.",
+    "imagem": "aguia_img.jpg",
+    "narracao": "aguia_nar.mp3"
+  }, 
+    {
+    "id": "14",
+    "animal": "Cobra",
+    "som": "cobra_som.mp3",
+    "texto": "Réptil que não possui pernas, e portanto, se rasteja pelas matas. Possui escamas, presas e uma lingua em formato de Y. Podem ou não ser venenosas. Uma espécie possui um chocalho na ponta da cauda.",
+    "imagem": "cobra_img.jpg",
+    "narracao": "cobra_nar.mp3"
+  }, 
+    {
+    "id": "15",
+    "animal": "Papagaio",
+    "som": "papagaio_som.mp3",
+    "texto": "Pássaro doméstico. Em geral são verdes, e são famosos por imitar o que os humanos falam para eles.",
+    "imagem": "papagaio_img.jpg",
+    "narracao": "papagaio_nar.mp3"
+  }, 
+    {
+    "id": "16",
+    "animal": "Urso",
+    "som": "urso_som.mp3",
+    "texto": "Este animal pode ser cinza, marrom ou branco. É grande e gordo, possuindo grandes garras e dentes. Suas orelhas são redondas e pequenas. Pode andar em duas ou quatro patas. Habita os territórios mais frios. Conhecido por se alimentar muito no verão e dormir o inverno todo. Foi o protagonista do filme Kong Fu Panda.",
+    "imagem": "urso_img.jpg",
+    "narracao": "urso_nar.mp3"
+  },
+    {
+    "id": "17",
+    "animal": "Pica-Pau",
+    "som": "picapau_som.mp3",
+    "texto": "Ave com topete vermelho, bico longo e fino. Esse pássaro deu origem a um desenho muito famoso. Conhecido por ficar bicando a madeira das árvores, chegando a abrir burcacos nelas.",
+    "imagem": "picapau_img.jpg",
+    "narracao": "picapau_nar.mp3"
+  },
+    {
+    "id": "18",
+    "animal": "Baleia",
+    "som": "baleia_som.mp3",
+    "texto": "Maior mamífero marinho, que se alimenta de pequenos planktons. Vivem nos oceanos e vem à superfície para respirar. Em geral são azuis ou pretas. Alguns parques aquáticos possuem exemplares deles, que fazem shows de entretenimento.",
+    "imagem": "baleia_img.jpg",
+    "narracao": "Baleia_nar.mp3"
+  },
+    {
+    "id": "19",
+    "animal": "Lobo",
+    "som": "lobo_som.mp3",
+    "texto": "Canídeo selvagem, parecido com um cachorro, porém maior e mais feroz, habitante de climas frios. É conhecido por andar em matilhas e uivar. Deu origem a histórias como o lobisomem.",
+    "imagem": "lobo_img.jpg",
+    "narracao": "lobo_nar.mp3"
+  },
+    {
+    "id": "20",
+    "animal": "Zebra",
+    "som": "zebra_som.mp3",
+    "texto": "Esse animal é conhecido por suas listras pretas e brancas. Nativo da savana africana, é parecido com um cavalo. Também participou do filme Madagascar.",
+    "imagem": "zebra_img.jpg",
+    "narracao": "zebra_nar.mp3"
+  },
+]
+}
